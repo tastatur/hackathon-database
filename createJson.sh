@@ -20,9 +20,9 @@ cat ${INPUT} | jq ".${FIELD}" | grep -v "[\{\}]" > values.tmp
 echo "{"
 cat values.tmp | grep -v "null" | while read i; do
   CODE=$(echo "$i" | awk -F ":" '{print $1}')
-  VALUE=$(echo "$i" | awk -F ":" '{print $2}')
+  VALUE=$(echo "$i" | awk -F ":" '{print $2}' | sed "s/,//")
   CITY=$(cat cities.tmp | grep "$CODE" |  awk -F ":" '{print $2}')
-  echo "${CITY}:{ \"${MEASUREMENT}\": $VALUE }" | sed "s/,//"
+  echo "${CITY}:{ \"${MEASUREMENT}\": $VALUE }," | sed "s/,//"
 done
 echo "}"
 
