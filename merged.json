@@ -3,33 +3,39 @@
     "pm10": 23.2211,
     "ilness": 291.804,
     "pm25": 11.5863,
-    "no2": 41.7727
+    "no2": 41.7727,
+    "tot": 259
   },
   "Bielefeld": {
     "pm10": 21.2508,
     "ilness": 230.483,
     "pm25": 16.1878,
-    "no2": 33.9146
+    "no2": 33.9146,
+    "tot": 121
   },
   "Bochum": {
     "pm10": 19.626,
     "ilness": 298.196,
-    "no2": 50.5727
+    "no2": 50.5727,
+    "tot": 200
   },
   "Bonn": {
     "pm10": 19.9669,
     "ilness": 268.896,
-    "no2": 41.1662
+    "no2": 41.1662,
+    "tot": 104
   },
   "Borken": {
     "pm10": 20.4443,
     "ilness": 286.768,
-    "no2": 18.1274
+    "no2": 18.1274,
+    "tot": 162
   },
   "Bottrop": {
     "pm10": 23.0219,
     "ilness": 353.726,
-    "no2": 32.5138
+    "no2": 32.5138,
+    "tot": 42
   },
   "Datteln": {
     "pm10": 19.1195,
@@ -40,7 +46,8 @@
     "pm10": 22.2504,
     "ilness": 305.371,
     "pm25": 15.4646,
-    "no2": 43.6162
+    "no2": 43.6162,
+    "tot": 288
   },
   "Duisburg": {
     "pm10": 22.485,
@@ -67,7 +74,8 @@
     "pm10": 25.0088,
     "ilness": 417.235,
     "pm25": 15.6738,
-    "no2": 39.182
+    "no2": 39.182,
+    "tot": 150
   },
   "Grevenbroich": {
     "pm10": 21.6701
@@ -75,7 +83,8 @@
   "Hagen": {
     "pm10": 29.4865,
     "ilness": 349.349,
-    "no2": 43.8164
+    "no2": 43.8164,
+    "tot": 94
   },
   "Hattingen": {
     "pm10": 17.9977,
@@ -84,7 +93,8 @@
   "Herne": {
     "pm10": 27.3453,
     "ilness": 408.643,
-    "no2": 45.6822
+    "no2": 45.6822,
+    "tot": 95
   },
   "Hürth": {
     "pm10": 15.1588,
@@ -105,18 +115,21 @@
     "pm10": 21.3384,
     "ilness": 325.949,
     "pm25": 15.24,
-    "no2": 45.1135
+    "no2": 45.1135,
+    "tot": 364
   },
   "Krefeld": {
     "pm10": 18.9226,
     "ilness": 337.335,
     "pm25": 12.4238,
-    "no2": 38.1658
+    "no2": 38.1658,
+    "tot": 110
   },
   "Leverkusen": {
     "pm10": 16.8267,
     "ilness": 193.963,
-    "no2": 28.4579
+    "no2": 28.4579,
+    "tot": 61
   },
   "Lünen": {
     "pm10": 21.1528,
@@ -126,7 +139,8 @@
     "pm10": 20.1867,
     "ilness": 291.335,
     "pm25": 15.1722,
-    "no2": 34.1231
+    "no2": 34.1231,
+    "tot": 181
   },
   "Mülheim": {
     "pm10": 20.4148,
@@ -137,7 +151,8 @@
     "pm10": 21.9611,
     "ilness": 227.347,
     "pm25": 15.8425,
-    "no2": 37.7435
+    "no2": 37.7435,
+    "tot": 96
   },
   "Netphen": {
     "pm10": 12.3815,
@@ -154,7 +169,8 @@
   "Oberhausen": {
     "pm10": 26.5227,
     "ilness": 406.276,
-    "no2": 52.7054
+    "no2": 52.7054,
+    "tot": 105
   },
   "Ratingen": {
     "pm10": 16.3867,
@@ -174,12 +190,14 @@
     "pm10": 17.2307,
     "ilness": 281.977,
     "pm25": 13.198,
-    "no2": 14.2243
+    "no2": 14.2243,
+    "tot": 113
   },
   "Solingen": {
     "pm10": 17.5985,
     "ilness": 268.497,
-    "no2": 22.0995
+    "no2": 22.0995,
+    "tot": 84
   },
   "Stolberg": {
     "pm10": 18.5978
@@ -193,111 +211,143 @@
     "pm10": 20.1834,
     "ilness": 311.325,
     "pm25": 15.7242,
-    "no2": 21.8786
+    "no2": 21.8786,
+    "tot": 229
   },
   "Wuppertal": {
     "pm10": 22.3924,
     "ilness": 380.351,
     "pm25": 13.3197,
-    "no2": 37.7386
+    "no2": 37.7386,
+    "tot": 138
   },
   "Coesfeld": {
-    "ilness": 277.014
+    "ilness": 277.014,
+    "tot": 94
   },
   "Düren": {
     "ilness": 303.432,
-    "no2": 63.5832
+    "no2": 63.5832,
+    "tot": 103
   },
   "Ennepe-Ruhr-Kreis": {
-    "ilness": 278.365
+    "ilness": 278.365,
+    "tot": 147
   },
   "Euskirchen": {
-    "ilness": 299.686
+    "ilness": 299.686,
+    "tot": 109
   },
   "Gütersloh": {
-    "ilness": 282.458
+    "ilness": 282.458,
+    "tot": 138
   },
   "Hamm": {
     "ilness": 336.268,
-    "no2": 40.9083
+    "no2": 40.9083,
+    "tot": 63
   },
   "Heinsberg": {
-    "ilness": 267.953
+    "ilness": 267.953,
+    "tot": 113
   },
   "Herford": {
-    "ilness": 214.265
+    "ilness": 214.265,
+    "tot": 95
   },
   "Hochsauerlandkreis": {
-    "ilness": 398.217
+    "ilness": 398.217,
+    "tot": 110
   },
   "Höxter": {
-    "ilness": 290.869
+    "ilness": 290.869,
+    "tot": 79
   },
   "Kleve": {
-    "ilness": 336.965
+    "ilness": 336.965,
+    "tot": 125
   },
   "Lippe": {
-    "ilness": 201.504
+    "ilness": 201.504,
+    "tot": 119
   },
   "Märkischer Kreis": {
-    "ilness": 313.703
+    "ilness": 313.703,
+    "tot": 181
   },
   "Mettmann": {
     "ilness": 234.284,
-    "no2": 43.7922
+    "no2": 43.7922,
+    "tot": 208
   },
   "Minden-Lübbecke": {
-    "ilness": 214.799
+    "ilness": 214.799,
+    "tot": 159
   },
   "Mülheim an der Ruhr": {
-    "ilness": 272.763
+    "ilness": 272.763,
+    "tot": 72
   },
   "Oberbergischer Kreis": {
-    "ilness": 252.245
+    "ilness": 252.245,
+    "tot": 105
   },
   "Olpe": {
-    "ilness": 364.948
+    "ilness": 364.948,
+    "tot": 52
   },
   "Paderborn": {
     "ilness": 293.044,
-    "no2": 49.7348
+    "no2": 49.7348,
+    "tot": 91
   },
   "Recklinghausen": {
     "ilness": 339.495,
-    "no2": 41.2341
+    "no2": 41.2341,
+    "tot": 271
   },
   "Remscheid": {
     "ilness": 272.063,
-    "no2": 44.4047
+    "no2": 44.4047,
+    "tot": 46
   },
   "Rhein-Erft-Kreis": {
-    "ilness": 263.594
+    "ilness": 263.594,
+    "tot": 158
   },
   "Rheinisch-Bergischer Kreis": {
-    "ilness": 196.581
+    "ilness": 196.581,
+    "tot": 105
   },
   "Rhein-Kreis Neuss": {
-    "ilness": 243.064
+    "ilness": 243.064,
+    "tot": 164
   },
   "Rhein-Sieg-Kreis": {
-    "ilness": 205.902
+    "ilness": 205.902,
+    "tot": 241
   },
   "Siegen-Wittgenstein": {
-    "ilness": 329.968
+    "ilness": 329.968,
+    "tot": 146
   },
   "Steinfurt": {
-    "ilness": 247.27
+    "ilness": 247.27,
+    "tot": 153
   },
   "Unna": {
     "ilness": 404.116,
     "pm25": 13.9513,
-    "no2": 20.9525
+    "no2": 20.9525,
+    "tot": 188
   },
   "Viersen": {
-    "ilness": 322.315
+    "ilness": 322.315,
+    "tot": 153
   },
   "Warendorf": {
-    "ilness": 258.649
+    "ilness": 258.649,
+    "tot": 114
   },
   "Bönen": {
     "no2": 42.8484

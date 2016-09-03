@@ -2,5 +2,6 @@
 "pm10": "Feinstaub (grob)",
 "pm25": "Feinstaub (fein)",
 "ilness": "Erkrankungen der unteren Atemwege pro 100K Einwohner",
-"no2": "Stickstoffdioxid"
+"no2": "Stickstoffdioxid",
+"tot": "Todesfälle"
 }
