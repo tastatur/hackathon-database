@@ -36,3 +36,4 @@ rm values.c.tmp
 echo "{"
 cat tmp | sort -u
 echo "}"
+rm tmp

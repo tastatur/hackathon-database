@@ -1,76 +1,23 @@
 {
 "Aachen":{ "pm25": 11.5863 }
-"Bielefeld":{ "ilness": 230.483 }
 "Bielefeld":{ "pm25": 16.1878 }
-"Bochum":{ "ilness": 298.196 }
-"Bonn":{ "ilness": 268.896 }
-"Borken":{ "ilness": 286.768 }
-"Bottrop":{ "ilness": 353.726 }
-"Coesfeld":{ "ilness": 277.014 }
 "Datteln":{ "pm25": 15.6289 }
-"Dortmund":{ "ilness": 305.371 }
 "Dortmund":{ "pm25": 15.4646 }
-"Duisburg":{ "ilness": 395.14 }
 "Duisburg":{ "pm25": 16.619 }
-"Düren":{ "ilness": 303.432 }
-"Düsseldorf":{ "ilness": 248.808 }
 "Düsseldorf":{ "pm25": 15.4609 }
-"Ennepe-Ruhr-Kreis":{ "ilness": 278.365 }
-"Essen":{ "ilness": 314.307 }
 "Essen":{ "pm25": 14.7665 }
-"Euskirchen":{ "ilness": 299.686 }
-"Gelsenkirchen":{ "ilness": 417.235 }
 "Gelsenkirchen":{ "pm25": 15.6738 }
-"Gütersloh":{ "ilness": 282.458 }
-"Hagen":{ "ilness": 349.349 }
-"Hamm":{ "ilness": 336.268 }
-"Heinsberg":{ "ilness": 267.953 }
-"Herford":{ "ilness": 214.265 }
-"Herne":{ "ilness": 408.643 }
-"Hochsauerlandkreis":{ "ilness": 398.217 }
-"Höxter":{ "ilness": 290.869 }
-"Kleve":{ "ilness": 336.965 }
-"Köln":{ "ilness": 325.949 }
 "Köln":{ "pm25": 15.24 }
-"Krefeld":{ "ilness": 337.335 }
 "Krefeld":{ "pm25": 12.4238 }
-"Leverkusen":{ "ilness": 193.963 }
-"Lippe":{ "ilness": 201.504 }
-"Märkischer Kreis":{ "ilness": 313.703 }
-"Mettmann":{ "ilness": 234.284 }
-"Minden-Lübbecke":{ "ilness": 214.799 }
-"Mönchengladbach":{ "ilness": 291.335 }
 "Mönchengladbach":{ "pm25": 15.1722 }
-"Mülheim an der Ruhr":{ "ilness": 272.763 }
 "Mülheim":{ "pm25": 15.5798 }
-"Münster":{ "ilness": 227.347 }
 "Münster":{ "pm25": 15.8425 }
 "Niederzier":{ "pm25": 10.6306 }
-"Oberbergischer Kreis":{ "ilness": 252.245 }
-"Oberhausen":{ "ilness": 406.276 }
-"Olpe":{ "ilness": 364.948 }
-"Paderborn":{ "ilness": 293.044 }
-"Recklinghausen":{ "ilness": 339.495 }
-"Remscheid":{ "ilness": 272.063 }
-"Rhein-Erft-Kreis":{ "ilness": 263.594 }
-"Rheinisch-Bergischer Kreis":{ "ilness": 196.581 }
-"Rhein-Kreis Neuss":{ "ilness": 243.064 }
-"Rhein-Sieg-Kreis":{ "ilness": 205.902 }
 "Schwerte":{ "pm25": 13.063 }
-"Siegen-Wittgenstein":{ "ilness": 329.968 }
 "Simmerath":{ "pm25": 9.5691 }
-"Soest":{ "ilness": 281.977 }
 "Soest":{ "pm25": 13.198 }
-"Solingen":{ "ilness": 268.497 }
-"Städteregion Aachen (einschl. Stadt Aachen)":{ "ilness": 291.804 }
-"Steinfurt":{ "ilness": 247.27 }
-"Unna":{ "ilness": 404.116 }
 "Unna":{ "pm25": 13.9513 }
-"Viersen":{ "ilness": 322.315 }
-"Warendorf":{ "ilness": 258.649 }
 "Warstein":{ "pm25": 13.875 }
-"Wesel":{ "ilness": 311.325 }
 "Wesel":{ "pm25": 15.7242 }
-"Wuppertal":{ "ilness": 380.351 }
 "Wuppertal":{ "pm25": 13.3197 }
 }
