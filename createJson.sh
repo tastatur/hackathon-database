@@ -22,7 +22,7 @@ cat values.tmp | grep -v "null" | while read i; do
   CODE=$(echo "$i" | awk -F ":" '{print $1}')
   VALUE=$(echo "$i" | awk -F ":" '{print $2}')
   CITY=$(cat cities.tmp | grep "$CODE" |  awk -F ":" '{print $2}')
-  echo "${CITY}:{ ${MEASUREMENT}: $VALUE }"
+  echo "${CITY}:{ \"${MEASUREMENT}\": $VALUE }" | sed "s/,//"
 done
 echo "}"
 
