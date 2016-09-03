@@ -1,0 +1,341 @@
+{
+  "Aachen": {
+    "pm10": 23.2211,
+    "ilness": 291.804,
+    "pm25": 11.5863,
+    "no2": 41.7727
+  },
+  "Bielefeld": {
+    "pm10": 21.2508,
+    "ilness": 230.483,
+    "pm25": 16.1878,
+    "no2": 33.9146
+  },
+  "Bochum": {
+    "pm10": 19.626,
+    "ilness": 298.196,
+    "no2": 50.5727
+  },
+  "Bonn": {
+    "pm10": 19.9669,
+    "ilness": 268.896,
+    "no2": 41.1662
+  },
+  "Borken": {
+    "pm10": 20.4443,
+    "ilness": 286.768,
+    "no2": 18.1274
+  },
+  "Bottrop": {
+    "pm10": 23.0219,
+    "ilness": 353.726,
+    "no2": 32.5138
+  },
+  "Datteln": {
+    "pm10": 19.1195,
+    "pm25": 15.6289,
+    "no2": 21.1261
+  },
+  "Dortmund": {
+    "pm10": 22.2504,
+    "ilness": 305.371,
+    "pm25": 15.4646,
+    "no2": 43.6162
+  },
+  "Duisburg": {
+    "pm10": 22.485,
+    "ilness": 395.14,
+    "pm25": 16.619,
+    "no2": 34.4889
+  },
+  "Düsseldorf": {
+    "pm10": 22.8063,
+    "ilness": 248.808,
+    "pm25": 15.4609,
+    "no2": 46.9873
+  },
+  "Erkelenz": {
+    "pm10": 19.5821
+  },
+  "Essen": {
+    "pm10": 23.6014,
+    "ilness": 314.307,
+    "pm25": 14.7665,
+    "no2": 41.3752
+  },
+  "Gelsenkirchen": {
+    "pm10": 25.0088,
+    "ilness": 417.235,
+    "pm25": 15.6738,
+    "no2": 39.182
+  },
+  "Grevenbroich": {
+    "pm10": 21.6701
+  },
+  "Hagen": {
+    "pm10": 29.4865,
+    "ilness": 349.349,
+    "no2": 43.8164
+  },
+  "Hattingen": {
+    "pm10": 17.9977,
+    "no2": 17.1108
+  },
+  "Herne": {
+    "pm10": 27.3453,
+    "ilness": 408.643,
+    "no2": 45.6822
+  },
+  "Hürth": {
+    "pm10": 15.1588,
+    "no2": 34.6668
+  },
+  "Jackerath": {
+    "pm10": 20.5067,
+    "no2": 19.2617
+  },
+  "Jüchen": {
+    "pm10": 22.6847,
+    "no2": 19.8625
+  },
+  "Kamp": {
+    "pm10": 19.077
+  },
+  "Köln": {
+    "pm10": 21.3384,
+    "ilness": 325.949,
+    "pm25": 15.24,
+    "no2": 45.1135
+  },
+  "Krefeld": {
+    "pm10": 18.9226,
+    "ilness": 337.335,
+    "pm25": 12.4238,
+    "no2": 38.1658
+  },
+  "Leverkusen": {
+    "pm10": 16.8267,
+    "ilness": 193.963,
+    "no2": 28.4579
+  },
+  "Lünen": {
+    "pm10": 21.1528,
+    "no2": 27.438
+  },
+  "Mönchengladbach": {
+    "pm10": 20.1867,
+    "ilness": 291.335,
+    "pm25": 15.1722,
+    "no2": 34.1231
+  },
+  "Mülheim": {
+    "pm10": 20.4148,
+    "pm25": 15.5798,
+    "no2": 38.6095
+  },
+  "Münster": {
+    "pm10": 21.9611,
+    "ilness": 227.347,
+    "pm25": 15.8425,
+    "no2": 37.7435
+  },
+  "Netphen": {
+    "pm10": 12.3815,
+    "no2": 4.815
+  },
+  "Nettetal": {
+    "pm10": 19.6822,
+    "no2": 21.829
+  },
+  "Niederzier": {
+    "pm10": 20.895,
+    "pm25": 10.6306
+  },
+  "Oberhausen": {
+    "pm10": 26.5227,
+    "ilness": 406.276,
+    "no2": 52.7054
+  },
+  "Ratingen": {
+    "pm10": 16.3867,
+    "no2": 25.806
+  },
+  "Schwerte": {
+    "pm10": 22.2274,
+    "pm25": 13.063,
+    "no2": 33.5769
+  },
+  "Simmerath": {
+    "pm10": 11.6152,
+    "pm25": 9.5691,
+    "no2": 5.7294
+  },
+  "Soest": {
+    "pm10": 17.2307,
+    "ilness": 281.977,
+    "pm25": 13.198,
+    "no2": 14.2243
+  },
+  "Solingen": {
+    "pm10": 17.5985,
+    "ilness": 268.497,
+    "no2": 22.0995
+  },
+  "Stolberg": {
+    "pm10": 18.5978
+  },
+  "Warstein": {
+    "pm10": 21.7035,
+    "pm25": 13.875,
+    "no2": 12.1024
+  },
+  "Wesel": {
+    "pm10": 20.1834,
+    "ilness": 311.325,
+    "pm25": 15.7242,
+    "no2": 21.8786
+  },
+  "Wuppertal": {
+    "pm10": 22.3924,
+    "ilness": 380.351,
+    "pm25": 13.3197,
+    "no2": 37.7386
+  },
+  "Coesfeld": {
+    "ilness": 277.014
+  },
+  "Düren": {
+    "ilness": 303.432,
+    "no2": 63.5832
+  },
+  "Ennepe-Ruhr-Kreis": {
+    "ilness": 278.365
+  },
+  "Euskirchen": {
+    "ilness": 299.686
+  },
+  "Gütersloh": {
+    "ilness": 282.458
+  },
+  "Hamm": {
+    "ilness": 336.268,
+    "no2": 40.9083
+  },
+  "Heinsberg": {
+    "ilness": 267.953
+  },
+  "Herford": {
+    "ilness": 214.265
+  },
+  "Hochsauerlandkreis": {
+    "ilness": 398.217
+  },
+  "Höxter": {
+    "ilness": 290.869
+  },
+  "Kleve": {
+    "ilness": 336.965
+  },
+  "Lippe": {
+    "ilness": 201.504
+  },
+  "Märkischer Kreis": {
+    "ilness": 313.703
+  },
+  "Mettmann": {
+    "ilness": 234.284,
+    "no2": 43.7922
+  },
+  "Minden-Lübbecke": {
+    "ilness": 214.799
+  },
+  "Mülheim an der Ruhr": {
+    "ilness": 272.763
+  },
+  "Oberbergischer Kreis": {
+    "ilness": 252.245
+  },
+  "Olpe": {
+    "ilness": 364.948
+  },
+  "Paderborn": {
+    "ilness": 293.044,
+    "no2": 49.7348
+  },
+  "Recklinghausen": {
+    "ilness": 339.495,
+    "no2": 41.2341
+  },
+  "Remscheid": {
+    "ilness": 272.063,
+    "no2": 44.4047
+  },
+  "Rhein-Erft-Kreis": {
+    "ilness": 263.594
+  },
+  "Rheinisch-Bergischer Kreis": {
+    "ilness": 196.581
+  },
+  "Rhein-Kreis Neuss": {
+    "ilness": 243.064
+  },
+  "Rhein-Sieg-Kreis": {
+    "ilness": 205.902
+  },
+  "Siegen-Wittgenstein": {
+    "ilness": 329.968
+  },
+  "Steinfurt": {
+    "ilness": 247.27
+  },
+  "Unna": {
+    "ilness": 404.116,
+    "pm25": 13.9513,
+    "no2": 20.9525
+  },
+  "Viersen": {
+    "ilness": 322.315
+  },
+  "Warendorf": {
+    "ilness": 258.649
+  },
+  "Bönen": {
+    "no2": 42.8484
+  },
+  "Dinslaken": {
+    "no2": 40.5224
+  },
+  "Emmerich": {
+    "no2": 36.3481
+  },
+  "Erwitte": {
+    "no2": 39.3602
+  },
+  "Eschweiler": {
+    "no2": 44.2058
+  },
+  "Gladbeck": {
+    "no2": 43.8603
+  },
+  "Halle": {
+    "no2": 47.9481
+  },
+  "Kamen": {
+    "no2": 36.4709
+  },
+  "Langenfeld": {
+    "no2": 44.5064
+  },
+  "Meerbusch": {
+    "no2": 37.2613
+  },
+  "Neuss": {
+    "no2": 46.4408
+  },
+  "Overath": {
+    "no2": 46.2041
+  },
+  "Siegen": {
+    "no2": 38.6887
+  }
+}
