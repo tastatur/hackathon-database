@@ -1,856 +1,341 @@
 {
   "Aachen": {
-    "pm10": {
-      "average": 23.2211,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 11.5863,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 41.7727,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 23.2211,
+    "ilness": 291.804,
+    "pm25": 11.5863,
+    "no2": 41.7727
   },
   "Bielefeld": {
-    "pm10": {
-      "average": 21.2508,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 230.483,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 16.1878,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 33.9146,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 21.2508,
+    "ilness": 230.483,
+    "pm25": 16.1878,
+    "no2": 33.9146
   },
   "Bochum": {
-    "pm10": {
-      "average": 19.626,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 298.196,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 50.5727,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 19.626,
+    "ilness": 298.196,
+    "no2": 50.5727
   },
   "Bonn": {
-    "pm10": {
-      "average": 19.9669,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 268.896,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 41.1662,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 19.9669,
+    "ilness": 268.896,
+    "no2": 41.1662
   },
   "Borken": {
-    "pm10": {
-      "average": 20.4443,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 286.768,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 18.1274,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 20.4443,
+    "ilness": 286.768,
+    "no2": 18.1274
   },
   "Bottrop": {
-    "pm10": {
-      "average": 23.0219,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 353.726,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 32.5138,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 23.0219,
+    "ilness": 353.726,
+    "no2": 32.5138
   },
   "Datteln": {
-    "pm10": {
-      "average": 19.1195,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 15.6289,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 21.1261,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 19.1195,
+    "pm25": 15.6289,
+    "no2": 21.1261
   },
   "Dortmund": {
-    "pm10": {
-      "average": 22.2504,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 305.371,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.4646,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 43.6162,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.2504,
+    "ilness": 305.371,
+    "pm25": 15.4646,
+    "no2": 43.6162
   },
   "Duisburg": {
-    "pm10": {
-      "average": 22.485,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 395.14,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 16.619,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 34.4889,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.485,
+    "ilness": 395.14,
+    "pm25": 16.619,
+    "no2": 34.4889
   },
   "Düsseldorf": {
-    "pm10": {
-      "average": 22.8063,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 248.808,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.4609,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 46.9873,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.8063,
+    "ilness": 248.808,
+    "pm25": 15.4609,
+    "no2": 46.9873
   },
   "Erkelenz": {
-    "pm10": {
-      "average": 19.5821,
-      "name": "Feinstaub-grob"
-    }
+    "pm10": 19.5821
   },
   "Essen": {
-    "pm10": {
-      "average": 23.6014,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 314.307,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 14.7665,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 41.3752,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 23.6014,
+    "ilness": 314.307,
+    "pm25": 14.7665,
+    "no2": 41.3752
   },
   "Gelsenkirchen": {
-    "pm10": {
-      "average": 25.0088,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 417.235,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.6738,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 39.182,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 25.0088,
+    "ilness": 417.235,
+    "pm25": 15.6738,
+    "no2": 39.182
   },
   "Grevenbroich": {
-    "pm10": {
-      "average": 21.6701,
-      "name": "Feinstaub-grob"
-    }
+    "pm10": 21.6701
   },
   "Hagen": {
-    "pm10": {
-      "average": 29.4865,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 349.349,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 43.8164,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 29.4865,
+    "ilness": 349.349,
+    "no2": 43.8164
   },
   "Hattingen": {
-    "pm10": {
-      "average": 17.9977,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 17.1108,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 17.9977,
+    "no2": 17.1108
   },
   "Herne": {
-    "pm10": {
-      "average": 27.3453,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 408.643,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 45.6822,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 27.3453,
+    "ilness": 408.643,
+    "no2": 45.6822
   },
   "Hürth": {
-    "pm10": {
-      "average": 15.1588,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 34.6668,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 15.1588,
+    "no2": 34.6668
   },
   "Jackerath": {
-    "pm10": {
-      "average": 20.5067,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 19.2617,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 20.5067,
+    "no2": 19.2617
   },
   "Jüchen": {
-    "pm10": {
-      "average": 22.6847,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 19.8625,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.6847,
+    "no2": 19.8625
   },
   "Kamp": {
-    "pm10": {
-      "average": 19.077,
-      "name": "Feinstaub-grob"
-    }
+    "pm10": 19.077
   },
   "Köln": {
-    "pm10": {
-      "average": 21.3384,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 325.949,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.24,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 45.1135,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 21.3384,
+    "ilness": 325.949,
+    "pm25": 15.24,
+    "no2": 45.1135
   },
   "Krefeld": {
-    "pm10": {
-      "average": 18.9226,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 337.335,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 12.4238,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 38.1658,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 18.9226,
+    "ilness": 337.335,
+    "pm25": 12.4238,
+    "no2": 38.1658
   },
   "Leverkusen": {
-    "pm10": {
-      "average": 16.8267,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 193.963,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 28.4579,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 16.8267,
+    "ilness": 193.963,
+    "no2": 28.4579
   },
   "Lünen": {
-    "pm10": {
-      "average": 21.1528,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 27.438,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 21.1528,
+    "no2": 27.438
   },
   "Mönchengladbach": {
-    "pm10": {
-      "average": 20.1867,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 291.335,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.1722,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 34.1231,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 20.1867,
+    "ilness": 291.335,
+    "pm25": 15.1722,
+    "no2": 34.1231
   },
   "Mülheim": {
-    "pm10": {
-      "average": 20.4148,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 15.5798,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 38.6095,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 20.4148,
+    "pm25": 15.5798,
+    "no2": 38.6095
   },
   "Münster": {
-    "pm10": {
-      "average": 21.9611,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 227.347,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.8425,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 37.7435,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 21.9611,
+    "ilness": 227.347,
+    "pm25": 15.8425,
+    "no2": 37.7435
   },
   "Netphen": {
-    "pm10": {
-      "average": 12.3815,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 4.815,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 12.3815,
+    "no2": 4.815
   },
   "Nettetal": {
-    "pm10": {
-      "average": 19.6822,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 21.829,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 19.6822,
+    "no2": 21.829
   },
   "Niederzier": {
-    "pm10": {
-      "average": 20.895,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 10.6306,
-      "name": "Feinstaub-fein"
-    }
+    "pm10": 20.895,
+    "pm25": 10.6306
   },
   "Oberhausen": {
-    "pm10": {
-      "average": 26.5227,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 406.276,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 52.7054,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 26.5227,
+    "ilness": 406.276,
+    "no2": 52.7054
   },
   "Ratingen": {
-    "pm10": {
-      "average": 16.3867,
-      "name": "Feinstaub-grob"
-    },
-    "no2": {
-      "average": 25.806,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 16.3867,
+    "no2": 25.806
   },
   "Schwerte": {
-    "pm10": {
-      "average": 22.2274,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 13.063,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 33.5769,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.2274,
+    "pm25": 13.063,
+    "no2": 33.5769
   },
   "Simmerath": {
-    "pm10": {
-      "average": 11.6152,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 9.5691,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 5.7294,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 11.6152,
+    "pm25": 9.5691,
+    "no2": 5.7294
   },
   "Soest": {
-    "pm10": {
-      "average": 17.2307,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 281.977,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 13.198,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 14.2243,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 17.2307,
+    "ilness": 281.977,
+    "pm25": 13.198,
+    "no2": 14.2243
   },
   "Solingen": {
-    "pm10": {
-      "average": 17.5985,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 268.497,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 22.0995,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 17.5985,
+    "ilness": 268.497,
+    "no2": 22.0995
   },
   "Stolberg": {
-    "pm10": {
-      "average": 18.5978,
-      "name": "Feinstaub-grob"
-    }
+    "pm10": 18.5978
   },
   "Warstein": {
-    "pm10": {
-      "average": 21.7035,
-      "name": "Feinstaub-grob"
-    },
-    "pm25": {
-      "average": 13.875,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 12.1024,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 21.7035,
+    "pm25": 13.875,
+    "no2": 12.1024
   },
   "Wesel": {
-    "pm10": {
-      "average": 20.1834,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 311.325,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 15.7242,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 21.8786,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 20.1834,
+    "ilness": 311.325,
+    "pm25": 15.7242,
+    "no2": 21.8786
   },
   "Wuppertal": {
-    "pm10": {
-      "average": 22.3924,
-      "name": "Feinstaub-grob"
-    },
-    "ilness": {
-      "average": 380.351,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 13.3197,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 37.7386,
-      "name": "Stickstoffdioxid"
-    }
+    "pm10": 22.3924,
+    "ilness": 380.351,
+    "pm25": 13.3197,
+    "no2": 37.7386
   },
   "Coesfeld": {
-    "ilness": {
-      "average": 277.014,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 277.014
   },
   "Düren": {
-    "ilness": {
-      "average": 303.432,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 63.5832,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 303.432,
+    "no2": 63.5832
   },
   "Ennepe-Ruhr-Kreis": {
-    "ilness": {
-      "average": 278.365,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 278.365
   },
   "Euskirchen": {
-    "ilness": {
-      "average": 299.686,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 299.686
   },
   "Gütersloh": {
-    "ilness": {
-      "average": 282.458,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 282.458
   },
   "Hamm": {
-    "ilness": {
-      "average": 336.268,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 40.9083,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 336.268,
+    "no2": 40.9083
   },
   "Heinsberg": {
-    "ilness": {
-      "average": 267.953,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 267.953
   },
   "Herford": {
-    "ilness": {
-      "average": 214.265,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 214.265
   },
   "Hochsauerlandkreis": {
-    "ilness": {
-      "average": 398.217,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 398.217
   },
   "Höxter": {
-    "ilness": {
-      "average": 290.869,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 290.869
   },
   "Kleve": {
-    "ilness": {
-      "average": 336.965,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 336.965
   },
   "Lippe": {
-    "ilness": {
-      "average": 201.504,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 201.504
   },
   "Märkischer Kreis": {
-    "ilness": {
-      "average": 313.703,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 313.703
   },
   "Mettmann": {
-    "ilness": {
-      "average": 234.284,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 43.7922,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 234.284,
+    "no2": 43.7922
   },
   "Minden-Lübbecke": {
-    "ilness": {
-      "average": 214.799,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 214.799
   },
   "Mülheim an der Ruhr": {
-    "ilness": {
-      "average": 272.763,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 272.763
   },
   "Oberbergischer Kreis": {
-    "ilness": {
-      "average": 252.245,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 252.245
   },
   "Olpe": {
-    "ilness": {
-      "average": 364.948,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 364.948
   },
   "Paderborn": {
-    "ilness": {
-      "average": 293.044,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 49.7348,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 293.044,
+    "no2": 49.7348
   },
   "Recklinghausen": {
-    "ilness": {
-      "average": 339.495,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 41.2341,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 339.495,
+    "no2": 41.2341
   },
   "Remscheid": {
-    "ilness": {
-      "average": 272.063,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "no2": {
-      "average": 44.4047,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 272.063,
+    "no2": 44.4047
   },
   "Rhein-Erft-Kreis": {
-    "ilness": {
-      "average": 263.594,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 263.594
   },
   "Rheinisch-Bergischer Kreis": {
-    "ilness": {
-      "average": 196.581,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 196.581
   },
   "Rhein-Kreis Neuss": {
-    "ilness": {
-      "average": 243.064,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 243.064
   },
   "Rhein-Sieg-Kreis": {
-    "ilness": {
-      "average": 205.902,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 205.902
   },
   "Siegen-Wittgenstein": {
-    "ilness": {
-      "average": 329.968,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
-  },
-  "Städteregion Aachen (einschl. Stadt Aachen)": {
-    "ilness": {
-      "average": 291.804,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 329.968
   },
   "Steinfurt": {
-    "ilness": {
-      "average": 247.27,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 247.27
   },
   "Unna": {
-    "ilness": {
-      "average": 404.116,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    },
-    "pm25": {
-      "average": 13.9513,
-      "name": "Feinstaub-fein"
-    },
-    "no2": {
-      "average": 20.9525,
-      "name": "Stickstoffdioxid"
-    }
+    "ilness": 404.116,
+    "pm25": 13.9513,
+    "no2": 20.9525
   },
   "Viersen": {
-    "ilness": {
-      "average": 322.315,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 322.315
   },
   "Warendorf": {
-    "ilness": {
-      "average": 258.649,
-      "name": "Erkrankungen der unteren Atemwege pro 100K Einwohner"
-    }
+    "ilness": 258.649
   },
   "Bönen": {
-    "no2": {
-      "average": 42.8484,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 42.8484
   },
   "Dinslaken": {
-    "no2": {
-      "average": 40.5224,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 40.5224
   },
   "Emmerich": {
-    "no2": {
-      "average": 36.3481,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 36.3481
   },
   "Erwitte": {
-    "no2": {
-      "average": 39.3602,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 39.3602
   },
   "Eschweiler": {
-    "no2": {
-      "average": 44.2058,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 44.2058
   },
   "Gladbeck": {
-    "no2": {
-      "average": 43.8603,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 43.8603
   },
   "Halle": {
-    "no2": {
-      "average": 47.9481,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 47.9481
   },
   "Kamen": {
-    "no2": {
-      "average": 36.4709,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 36.4709
   },
   "Langenfeld": {
-    "no2": {
-      "average": 44.5064,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 44.5064
   },
   "Meerbusch": {
-    "no2": {
-      "average": 37.2613,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 37.2613
   },
   "Neuss": {
-    "no2": {
-      "average": 46.4408,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 46.4408
   },
   "Overath": {
-    "no2": {
-      "average": 46.2041,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 46.2041
   },
   "Siegen": {
-    "no2": {
-      "average": 38.6887,
-      "name": "Stickstoffdioxid"
-    }
+    "no2": 38.6887
   }
 }
