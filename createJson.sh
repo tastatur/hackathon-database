@@ -4,6 +4,7 @@
 INPUT=$1
 FIELD=$2
 MEASUREMENT=$3
+NAME=$4
 #Parse city->ID mapping
 cat ${INPUT} | jq ".stadt" | grep -v "[\{\}]" > cities.tmp
 #Parse id->value (no2 etc
@@ -25,7 +26,7 @@ cat values.c.tmp | grep -v "null" | while read i; do
   VALUE=$(echo "$i" | awk -F ":" '{print $2}')
 
   AVERAGE=$(cat values.c.tmp | grep -v "null" | grep "${CODE}" | awk -F ":" '{print $2}' | sed "s/,//" | bash ./avg.sh)
-  echo "${CODE}:{ \"${MEASUREMENT}\": $AVERAGE }," >> tmp
+  echo "${CODE}:{ \"${MEASUREMENT}\": {\"average\": $AVERAGE, \"name\":\"${NAME}\"} }," >> tmp
 done
 
 
