@@ -29,9 +29,7 @@ cat values.c.tmp | grep -v "null" | while read i; do
 done
 
 
-rm cities.tmp
-rm values.tmp
-rm values.c.tmp
+rm *.tmp
 
 echo "{"
 cat tmp | sort -u
