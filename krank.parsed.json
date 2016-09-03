@@ -1,0 +1,55 @@
+{
+ "Düsseldorf":{ "ilness":  248.8083905562, }
+ "Duisburg":{ "ilness":  395.1403262982, }
+ "Essen":{ "ilness":  314.306703199, }
+ "Krefeld":{ "ilness":  337.3353188466, }
+ "Mönchengladbach":{ "ilness":  291.3354191099, }
+ "Mülheim an der Ruhr":{ "ilness":  272.762755039, }
+ "Oberhausen":{ "ilness":  406.2763940239, }
+ "Remscheid":{ "ilness":  272.0634208619, }
+ "Solingen":{ "ilness":  268.4970337589, }
+ "Wuppertal":{ "ilness":  380.3506190952, }
+ "Kleve":{ "ilness":  336.9648596893, }
+ "Mettmann":{ "ilness":  234.2841038712, }
+ "Rhein-Kreis Neuss":{ "ilness":  243.0635471615, }
+ "Viersen":{ "ilness":  322.3148568338, }
+ "Wesel":{ "ilness":  311.3247795954, }
+ "Bonn":{ "ilness":  268.895594621, }
+ "Köln":{ "ilness":  325.9493206011, }
+ "Leverkusen":{ "ilness":  193.9629345818, }
+ "Städteregion Aachen (einschl. Stadt Aachen)":{ "ilness":  291.8039125712, }
+ "Düren":{ "ilness":  303.4319391967, }
+ "Rhein-Erft-Kreis":{ "ilness":  263.5939063356, }
+ "Euskirchen":{ "ilness":  299.6855343398, }
+ "Heinsberg":{ "ilness":  267.9530232873, }
+ "Oberbergischer Kreis":{ "ilness":  252.2446376766, }
+ "Rheinisch-Bergischer Kreis":{ "ilness":  196.5812138047, }
+ "Rhein-Sieg-Kreis":{ "ilness":  205.9017269453, }
+ "Bottrop":{ "ilness":  353.7261905154, }
+ "Gelsenkirchen":{ "ilness":  417.2354054415, }
+ "Münster":{ "ilness":  227.3469513484, }
+ "Borken":{ "ilness":  286.767984038, }
+ "Coesfeld":{ "ilness":  277.0143964773, }
+ "Recklinghausen":{ "ilness":  339.4945657789, }
+ "Steinfurt":{ "ilness":  247.2695452976, }
+ "Warendorf":{ "ilness":  258.6488673887, }
+ "Bielefeld":{ "ilness":  230.4825411088, }
+ "Gütersloh":{ "ilness":  282.4578150743, }
+ "Herford":{ "ilness":  214.2645733665, }
+ "Höxter":{ "ilness":  290.8694907781, }
+ "Lippe":{ "ilness":  201.5038706123, }
+ "Minden-Lübbecke":{ "ilness":  214.7993960589, }
+ "Paderborn":{ "ilness":  293.0436831784, }
+ "Bochum":{ "ilness":  298.1961259818, }
+ "Dortmund":{ "ilness":  305.3714305438, }
+ "Hagen":{ "ilness":  349.3492101108, }
+ "Hamm":{ "ilness":  336.2683246427, }
+ "Herne":{ "ilness":  408.6431110325, }
+ "Ennepe-Ruhr-Kreis":{ "ilness":  278.3648912157, }
+ "Hochsauerlandkreis":{ "ilness":  398.2171200232, }
+ "Märkischer Kreis":{ "ilness":  313.7025596535, }
+ "Olpe":{ "ilness":  364.9479959188, }
+ "Siegen-Wittgenstein":{ "ilness":  329.9680610996, }
+ "Soest":{ "ilness":  281.9773268152, }
+ "Unna":{ "ilness":  404.1160680874 }
+}

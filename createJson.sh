@@ -2,12 +2,12 @@
 
 
 INPUT=$1
-YEAR=$2
+FIELD=$2
 MEASUREMENT=$3
 #Parse city->ID mapping
 cat ${INPUT} | jq ".stadt" | grep -v "[\{\}]" > cities.tmp
 #Parse id->value (no2 etc
-cat ${INPUT} | jq ".jahr_${YEAR}" | grep -v "[\{\}]" > values.tmp
+cat ${INPUT} | jq ".${FIELD}" | grep -v "[\{\}]" > values.tmp
 
 ##Calculate averages
 #cat values.tmp | grep -v "null" | while read i; do
