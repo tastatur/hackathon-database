@@ -25,7 +25,7 @@ cat values.c.tmp | grep -v "null" | while read i; do
   VALUE=$(echo "$i" | awk -F ":" '{print $2}')
 
   AVERAGE=$(cat values.c.tmp | grep -v "null" | grep "${CODE}" | awk -F ":" '{print $2}' | sed "s/,//" | bash ./avg.sh)
-  echo "${CODE}:{ \"${MEASUREMENT}\": $AVERAGE }," | sed "s/,//" >> tmp
+  echo "${CODE}:{ \"${MEASUREMENT}\": $AVERAGE }," >> tmp
 done
 
 

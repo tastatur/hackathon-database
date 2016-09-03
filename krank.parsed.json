@@ -1,55 +1,55 @@
 {
-"Bielefeld":{ "ilness": 230.483 }
-"Bochum":{ "ilness": 298.196 }
-"Bonn":{ "ilness": 268.896 }
-"Borken":{ "ilness": 286.768 }
-"Bottrop":{ "ilness": 353.726 }
-"Coesfeld":{ "ilness": 277.014 }
-"Dortmund":{ "ilness": 305.371 }
-"Duisburg":{ "ilness": 395.14 }
-"Düren":{ "ilness": 303.432 }
-"Düsseldorf":{ "ilness": 248.808 }
-"Ennepe-Ruhr-Kreis":{ "ilness": 278.365 }
-"Essen":{ "ilness": 314.307 }
-"Euskirchen":{ "ilness": 299.686 }
-"Gelsenkirchen":{ "ilness": 417.235 }
-"Gütersloh":{ "ilness": 282.458 }
-"Hagen":{ "ilness": 349.349 }
-"Hamm":{ "ilness": 336.268 }
-"Heinsberg":{ "ilness": 267.953 }
-"Herford":{ "ilness": 214.265 }
-"Herne":{ "ilness": 408.643 }
-"Hochsauerlandkreis":{ "ilness": 398.217 }
-"Höxter":{ "ilness": 290.869 }
-"Kleve":{ "ilness": 336.965 }
-"Köln":{ "ilness": 325.949 }
-"Krefeld":{ "ilness": 337.335 }
-"Leverkusen":{ "ilness": 193.963 }
-"Lippe":{ "ilness": 201.504 }
-"Märkischer Kreis":{ "ilness": 313.703 }
-"Mettmann":{ "ilness": 234.284 }
-"Minden-Lübbecke":{ "ilness": 214.799 }
-"Mönchengladbach":{ "ilness": 291.335 }
-"Mülheim an der Ruhr":{ "ilness": 272.763 }
-"Münster":{ "ilness": 227.347 }
-"Oberbergischer Kreis":{ "ilness": 252.245 }
-"Oberhausen":{ "ilness": 406.276 }
-"Olpe":{ "ilness": 364.948 }
-"Paderborn":{ "ilness": 293.044 }
-"Recklinghausen":{ "ilness": 339.495 }
-"Remscheid":{ "ilness": 272.063 }
-"Rhein-Erft-Kreis":{ "ilness": 263.594 }
-"Rheinisch-Bergischer Kreis":{ "ilness": 196.581 }
-"Rhein-Kreis Neuss":{ "ilness": 243.064 }
-"Rhein-Sieg-Kreis":{ "ilness": 205.902 }
-"Siegen-Wittgenstein":{ "ilness": 329.968 }
-"Soest":{ "ilness": 281.977 }
-"Solingen":{ "ilness": 268.497 }
-"Städteregion Aachen (einschl. Stadt Aachen)":{ "ilness": 291.804 }
-"Steinfurt":{ "ilness": 247.27 }
-"Unna":{ "ilness": 404.116 }
-"Viersen":{ "ilness": 322.315 }
-"Warendorf":{ "ilness": 258.649 }
-"Wesel":{ "ilness": 311.325 }
-"Wuppertal":{ "ilness": 380.351 }
+"Bielefeld":{ "ilness": 230.483 },
+"Bochum":{ "ilness": 298.196 },
+"Bonn":{ "ilness": 268.896 },
+"Borken":{ "ilness": 286.768 },
+"Bottrop":{ "ilness": 353.726 },
+"Coesfeld":{ "ilness": 277.014 },
+"Dortmund":{ "ilness": 305.371 },
+"Duisburg":{ "ilness": 395.14 },
+"Düren":{ "ilness": 303.432 },
+"Düsseldorf":{ "ilness": 248.808 },
+"Ennepe-Ruhr-Kreis":{ "ilness": 278.365 },
+"Essen":{ "ilness": 314.307 },
+"Euskirchen":{ "ilness": 299.686 },
+"Gelsenkirchen":{ "ilness": 417.235 },
+"Gütersloh":{ "ilness": 282.458 },
+"Hagen":{ "ilness": 349.349 },
+"Hamm":{ "ilness": 336.268 },
+"Heinsberg":{ "ilness": 267.953 },
+"Herford":{ "ilness": 214.265 },
+"Herne":{ "ilness": 408.643 },
+"Hochsauerlandkreis":{ "ilness": 398.217 },
+"Höxter":{ "ilness": 290.869 },
+"Kleve":{ "ilness": 336.965 },
+"Köln":{ "ilness": 325.949 },
+"Krefeld":{ "ilness": 337.335 },
+"Leverkusen":{ "ilness": 193.963 },
+"Lippe":{ "ilness": 201.504 },
+"Märkischer Kreis":{ "ilness": 313.703 },
+"Mettmann":{ "ilness": 234.284 },
+"Minden-Lübbecke":{ "ilness": 214.799 },
+"Mönchengladbach":{ "ilness": 291.335 },
+"Mülheim an der Ruhr":{ "ilness": 272.763 },
+"Münster":{ "ilness": 227.347 },
+"Oberbergischer Kreis":{ "ilness": 252.245 },
+"Oberhausen":{ "ilness": 406.276 },
+"Olpe":{ "ilness": 364.948 },
+"Paderborn":{ "ilness": 293.044 },
+"Recklinghausen":{ "ilness": 339.495 },
+"Remscheid":{ "ilness": 272.063 },
+"Rhein-Erft-Kreis":{ "ilness": 263.594 },
+"Rheinisch-Bergischer Kreis":{ "ilness": 196.581 },
+"Rhein-Kreis Neuss":{ "ilness": 243.064 },
+"Rhein-Sieg-Kreis":{ "ilness": 205.902 },
+"Siegen-Wittgenstein":{ "ilness": 329.968 },
+"Soest":{ "ilness": 281.977 },
+"Solingen":{ "ilness": 268.497 },
+"Städteregion Aachen (einschl. Stadt Aachen)":{ "ilness": 291.804 },
+"Steinfurt":{ "ilness": 247.27 },
+"Unna":{ "ilness": 404.116 },
+"Viersen":{ "ilness": 322.315 },
+"Warendorf":{ "ilness": 258.649 },
+"Wesel":{ "ilness": 311.325 },
+"Wuppertal":{ "ilness": 380.351 },
 }
