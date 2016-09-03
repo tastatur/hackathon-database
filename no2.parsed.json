@@ -1,131 +1,58 @@
 {
- "Köln":{ "no2":  63.3006 },
- "Düsseldorf":{ "no2":  63.3449 },
- "Düren":{ "no2":  63.5832 },
- "Düsseldorf":{ "no2":  59.9771 },
- "Düsseldorf":{ "no2":  59.826 },
- "Aachen":{ "no2":  56.9322 },
- "Köln":{ "no2":  54.8196 },
- "Oberhausen":{ "no2":  54.9467 },
- "Köln":{ "no2":  56.2578 },
- "Wuppertal":{ "no2":  51.0235 },
- "Düsseldorf":{ "no2":  56.1637 },
- "Köln":{ "no2":  55.9926 },
- "Bonn":{ "no2":  52.4489 },
- "Köln":{ "no2":  53.0915 },
- "Paderborn":{ "no2":  49.5985 },
- "Aachen":{ "no2":  49.8188 },
- "Gelsenkirchen":{ "no2":  51.4432 },
- "Essen":{ "no2":  51.2595 },
- "Dortmund":{ "no2":  52.0048 },
- "Hagen":{ "no2":  51.5295 },
- "Hagen":{ "no2":  53.4175 },
- "Essen":{ "no2":  53.4923 },
- "Dortmund":{ "no2":  50.8613 },
- "Paderborn":{ "no2":  49.871 },
- "Bochum":{ "no2":  50.5727 },
- "Oberhausen":{ "no2":  50.4641 },
- "Dortmund":{ "no2":  47.5473 },
- "Köln":{ "no2":  46.9824 },
- "Hürth":{ "no2":  47.359 },
- "Overath":{ "no2":  46.2041 },
- "Aachen":{ "no2":  47.4674 },
- "Essen":{ "no2":  46.0859 },
- "Essen":{ "no2":  48.0141 },
- "Neuss":{ "no2":  47.4312 },
- "Münster":{ "no2":  46.3454 },
- "Essen":{ "no2":  45.452 },
- "Münster":{ "no2":  44.395 },
- "Eschweiler":{ "no2":  44.2058 },
- "Köln":{ "no2":  42.3709 },
- "Essen":{ "no2":  43.6961 },
- "Dortmund":{ "no2":  44.1499 },
- "Mönchengladbach":{ "no2":  43.66 },
- "Dinslaken":{ "no2":  44.8867 },
- "Neuss":{ "no2":  45.4505 },
- "Mülheim":{ "no2":  45.477 },
- "Herne":{ "no2":  45.6822 },
- "Mettmann":{ "no2":  43.7922 },
- "Bonn":{ "no2":  43.0775 },
- "Remscheid":{ "no2":  44.4047 },
- "Gladbeck":{ "no2":  43.8603 },
- "Langenfeld":{ "no2":  44.5064 },
- "Bielefeld":{ "no2":  42.1824 },
- "Köln":{ "no2":  41.9844 },
- "Köln":{ "no2":  42.515 },
- "Halle":{ "no2":  47.9481 },
- "Köln":{ "no2":  44.0486 },
- "Mülheim":{ "no2":  42.8621 },
- "Münster":{ "no2":  39.3455 },
- "Hamm":{ "no2":  40.9083 },
- "Dortmund":{ "no2":  39.4701 },
- "Duisburg":{ "no2":  39.6556 },
- "Bönen":{ "no2":  42.8484 },
- "Siegen":{ "no2":  39.4575 },
- "Siegen":{ "no2":  37.9198 },
- "Krefeld":{ "no2":  42.1809 },
- "Essen":{ "no2":  39.6062 },
- "Münster":{ "no2":  38.323 },
- "Recklinghausen":{ "no2":  41.2341 },
- "Duisburg":{ "no2":  36.7491 },
- "Krefeld":{ "no2":  40.9222 },
- "Duisburg":{ "no2":  39.4348 },
- "Dinslaken":{ "no2":  37.6751 },
- "Essen":{ "no2":  37.141 },
- "Erwitte":{ "no2":  39.3602 },
- "Gelsenkirchen":{ "no2":  39.1644 },
- "Köln":{ "no2":  38.0401 },
- "Dinslaken":{ "no2":  39.0054 },
- "Hagen":{ "no2":  35.7397 },
- "Duisburg":{ "no2":  36.7769 },
- "Essen":{ "no2":  30.5108 },
- "Kamen":{ "no2":  36.4709 },
- "Meerbusch":{ "no2":  37.2613 },
- "Mönchengladbach":{ "no2":  35.9242 },
- "Köln":{ "no2":  29.5293 },
- "Essen":{ "no2":  29.9486 },
- "Bonn":{ "no2":  27.9723 },
- "Leverkusen":{ "no2":  28.4579 },
- "Essen":{ "no2":  29.6742 },
- "Krefeld":{ "no2":  31.3943 },
- "Essen":{ "no2":  27.6463 },
- "Dortmund":{ "no2":  27.6639 },
- "Gelsenkirchen":{ "no2":  26.9385 },
- "Bottrop":{ "no2":  27.3434 },
- "Mülheim":{ "no2":  27.4895 },
- "Duisburg":{ "no2":  26.1492 },
- "Ratingen":{ "no2":  25.806 },
- "Duisburg":{ "no2":  28.1678 },
- "Düsseldorf":{ "no2":  27.1433 },
- "Hagen":{ "no2":  34.5788 },
- "Köln":{ "no2":  25.9647 },
- "Lünen":{ "no2":  27.438 },
- "Wuppertal":{ "no2":  24.4538 },
- "Solingen":{ "no2":  22.0995 },
- "Bielefeld":{ "no2":  22.09 },
- "Mönchengladbach":{ "no2":  22.7851 },
- "Schwerte":{ "no2":  21.6637 },
- "Hürth":{ "no2":  21.9747 },
- "Unna":{ "no2":  20.9525 },
- "Datteln":{ "no2":  21.1261 },
- "Nettetal":{ "no2":  21.829 },
- "Münster":{ "no2":  20.3084 },
- "Wesel":{ "no2":  21.8786 },
- "Jackerath":{ "no2":  19.2617 },
- "Hattingen":{ "no2":  17.1108 },
- "Jüchen":{ "no2":  19.8625 },
- "Borken":{ "no2":  18.1274 },
- "Aachen":{ "no2":  12.8725 },
- "Soest":{ "no2":  14.2243 },
- "Warstein":{ "no2":  12.1024 },
- "Netphen":{ "no2":  4.815 },
- "Simmerath":{ "no2":  5.7294 },
- "Essen":{ "no2":  55.351 },
- "Bielefeld":{ "no2":  37.4714 },
- "Bottrop":{ "no2":  37.6842 },
- "Köln":{ "no2":  36.6912 },
- "Schwerte":{ "no2":  45.49 },
- "Emmerich":{ "no2":  36.3481 },
- "Düsseldorf":{ "no2":  33.1274 },
- "Düsseldorf":{ "no2":  29.329 },
 }
+"Aachen":{ "no2": 41.7727 }
+"Bielefeld":{ "no2": 33.9146 }
+"Bochum":{ "no2": 50.5727 }
+"Bönen":{ "no2": 42.8484 }
+"Bonn":{ "no2": 41.1662 }
+"Borken":{ "no2": 18.1274 }
+"Bottrop":{ "no2": 32.5138 }
+"Datteln":{ "no2": 21.1261 }
+"Dinslaken":{ "no2": 40.5224 }
+"Dortmund":{ "no2": 43.6162 }
+"Duisburg":{ "no2": 34.4889 }
+"Düren":{ "no2": 63.5832 }
+"Düsseldorf":{ "no2": 46.9873 }
+"Emmerich":{ "no2": 36.3481 }
+"Erwitte":{ "no2": 39.3602 }
+"Eschweiler":{ "no2": 44.2058 }
+"Essen":{ "no2": 41.3752 }
+"Gelsenkirchen":{ "no2": 39.182 }
+"Gladbeck":{ "no2": 43.8603 }
+"Hagen":{ "no2": 43.8164 }
+"Halle":{ "no2": 47.9481 }
+"Hamm":{ "no2": 40.9083 }
+"Hattingen":{ "no2": 17.1108 }
+"Herne":{ "no2": 45.6822 }
+"Hürth":{ "no2": 34.6668 }
+"Jackerath":{ "no2": 19.2617 }
+"Jüchen":{ "no2": 19.8625 }
+"Kamen":{ "no2": 36.4709 }
+"Köln":{ "no2": 45.1135 }
+"Krefeld":{ "no2": 38.1658 }
+"Langenfeld":{ "no2": 44.5064 }
+"Leverkusen":{ "no2": 28.4579 }
+"Lünen":{ "no2": 27.438 }
+"Meerbusch":{ "no2": 37.2613 }
+"Mettmann":{ "no2": 43.7922 }
+"Mönchengladbach":{ "no2": 34.1231 }
+"Mülheim":{ "no2": 38.6095 }
+"Münster":{ "no2": 37.7435 }
+"Netphen":{ "no2": 4.815 }
+"Nettetal":{ "no2": 21.829 }
+"Neuss":{ "no2": 46.4408 }
+"Oberhausen":{ "no2": 52.7054 }
+"Overath":{ "no2": 46.2041 }
+"Paderborn":{ "no2": 49.7348 }
+"Ratingen":{ "no2": 25.806 }
+"Recklinghausen":{ "no2": 41.2341 }
+"Remscheid":{ "no2": 44.4047 }
+"Schwerte":{ "no2": 33.5769 }
+"Siegen":{ "no2": 38.6887 }
+"Simmerath":{ "no2": 5.7294 }
+"Soest":{ "no2": 14.2243 }
+"Solingen":{ "no2": 22.0995 }
+"Unna":{ "no2": 20.9525 }
+"Warstein":{ "no2": 12.1024 }
+"Wesel":{ "no2": 21.8786 }
+"Wuppertal":{ "no2": 37.7386 }

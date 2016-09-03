@@ -9,22 +9,26 @@ cat ${INPUT} | jq ".stadt" | grep -v "[\{\}]" > cities.tmp
 #Parse id->value (no2 etc
 cat ${INPUT} | jq ".${FIELD}" | grep -v "[\{\}]" > values.tmp
 
-##Calculate averages
-#cat values.tmp | grep -v "null" | while read i; do
-#  CODE=$(echo "$i" | awk -F ":" '{print $1}')
-#  VALUE=$(echo "$i" | awk -F ":" '{print $2}')
-
-
-#done
-
-echo "{"
+#City-value
 cat values.tmp | grep -v "null" | while read i; do
+  CODE=$(echo "$i" | awk -F ":" '{print $1}' | sed "s/,//" )
+  VALUE=$(echo "$i" | awk -F ":" '{print $2}' | sed "s/,//" )
+  CITY=$(cat cities.tmp | grep "$CODE" |  awk -F ":" '{print $2}' | sed "s/,//")
+
+  echo "${CITY}:${VALUE}" >> values.c.tmp
+done
+
+##Calculate averages
+echo "{"
+cat values.c.tmp | grep -v "null" | while read i; do
   CODE=$(echo "$i" | awk -F ":" '{print $1}')
-  VALUE=$(echo "$i" | awk -F ":" '{print $2}' | sed "s/,//")
-  CITY=$(cat cities.tmp | grep "$CODE" |  awk -F ":" '{print $2}')
-  echo "${CITY}:{ \"${MEASUREMENT}\": $VALUE }," | sed "s/,//"
+  VALUE=$(echo "$i" | awk -F ":" '{print $2}')
+
+  AVERAGE=$(cat values.c.tmp | grep -v "null" | grep "${CODE}" | awk -F ":" '{print $2}' | sed "s/,//" | bash ./avg.sh)
+  echo "${CODE}:{ \"${MEASUREMENT}\": $AVERAGE }," | sed "s/,//"
 done
 echo "}"
 
 rm cities.tmp
 rm values.tmp
+rm values.c.tmp
